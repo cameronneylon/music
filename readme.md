@@ -19,29 +19,32 @@ Pieces
 ------
 
 * Choral
-..* [John 1:19](../Choral/John1-19/) - A completed piece reminiscent of Pärt (with hints of 
+  * [John 1:19](../Choral/John1-19/) - A completed piece reminiscent of Pärt (with hints of 
 Tavener and Gorecki) 
 for SATB choir, organ (semi-optional), and brass (3 Trp, 3 Trb, Tuba, entirely optional). 
 Quite an easy piece from the choir's perspective. Setting of the Vulgate latin text of
 John 1:19.
-..* [Kyrie/Exaudi](../Choral/Kyrie-Exaudi) - Short completed piece for unaccompanied SATB choir 
+  * [Kyrie/Exaudi](../Choral/Kyrie-Exaudi) - Short completed piece for unaccompanied SATB choir 
 piece using 
 elements of the Kyrie mass text juxtaposed with "Exaudi orationem meam". Some 
 challenging chromatic harmonies but quite tonal over all. 
-..* [O Magnum Mysterium](../Choral/Magnum_Mysterium) - Mostly finished piece for choir setting 
+  * [O Magnum Mysterium](../Choral/Magnum_Mysterium) - Mostly finished piece for choir setting 
 this popular text in
 its liturgical form. Fairly wide choral range (bottom D for basses, top A for 
 Sopranos and some quite challenging harmonies.
-..* [Gloria in excelsis](../Choral/Gloria_in_Excelsis) - In process version of a non-liturgical 
+  * [Gloria in excelsis](../Choral/Gloria_in_Excelsis) - In process version of a non-liturgical 
 setting of the Gloria
 text. Needs cleaning up and tidying. Choir and organ in this version.
-..* [Requiem aeternam](../Choral/Requiem_Aeternam) - In process version of a setting of the 
+  * [Requiem aeternam](../Choral/Requiem_Aeternam) - In process version of a setting of the 
 opening of the Requiem 
 text. Needs cleaning up tidying. Choir and organ in this version.
-..* [Magnificat](../Choral/Magnificat) - Half finished setting of the Magnificat for 
+  * [Magnificat](../Choral/Magnificat) - Half finished setting of the Magnificat for 
 unaccompanied choir. 
 * Instrumental and Orchestral
 
+
+Licensing
+---------
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
