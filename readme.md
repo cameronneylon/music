@@ -32,6 +32,10 @@ challenging chromatic harmonies but quite tonal over all.
 this popular text in
 its liturgical form. Fairly wide choral range (bottom D for basses, top A for 
 Sopranos and some quite challenging harmonies.
+  * [Dona Nobis Pacem](Choral/Dona_Nobis_Pacem/) - A piece for 40 part choir setting
+  the Dona nobis pacem text. The choirs are arranged in the same layout as Tallis'
+  /Spem in Alium/ for practical reasons. The piece is designed to be easy to rehearse
+  and is largely built around a set of rounds. Needs some cleaning up towards the end.
   * [Gloria in excelsis](Choral/Gloria_in_Excelsis/) - In process version of a non-liturgical 
 setting of the Gloria
 text. Needs cleaning up and tidying. Choir and organ in this version.
