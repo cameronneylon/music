@@ -44,7 +44,8 @@ unaccompanied choir.
   * [Litany](Instrumental/Litany/) - Complete minimalist piece for medium scale 
   orchestra (2222-22-1-2111). Ten to twelve minutes. Mostly quite straightforward with 
   some fiddly bits in the wind parts. Straightforward for a good school or moderate to  
-  good amateur orchestra.
+  good amateur orchestra. The score has got a bit messed up in a file transfer so some 
+  dynamics have gone missing but mostly there.
 
 
 Licensing
