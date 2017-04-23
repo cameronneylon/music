@@ -41,6 +41,10 @@ text. Needs cleaning up tidying. Choir and organ in this version.
   * [Magnificat](Choral/Magnificat/) - Half finished setting of the Magnificat for 
 unaccompanied choir. 
 * Instrumental and Orchestral
+  * [Litany](Instrumental/Litany/) - Complete minimalist piece for medium scale 
+  orchestra (2222-22-1-2111). Ten to twelve minutes. Mostly quite straightforward with 
+  some fiddly bits in the wind parts. Straightforward for a good school or moderate to  
+  good amateur orchestra.
 
 
 Licensing
