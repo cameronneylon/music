@@ -46,6 +46,15 @@ unaccompanied choir.
   some fiddly bits in the wind parts. Straightforward for a good school or moderate to  
   good amateur orchestra. The score has got a bit messed up in a file transfer so some 
   dynamics have gone missing but mostly there.
+  * [Bassoon Sonata](Instrumental/Bassoon_Sonata) - Three movement sonata-type piece
+  for Bassoon, which also works quite well on Bass Clarinet. This seems to have 
+  survived the format transfer ok but the first movement is missing for some reason. I
+  will need to go searching for the manuscript copy at some point.
+  * [Chamber Concerto](Instrumental/Chamber_Concerto/) - Three movement 'Chamber
+  Concerto' in the sense that the wind parts (two each oboe, clarinet, bassoon, horns)
+  are harder than the string parts. Written with an advanced school or reasonably
+  strong amateur orchestra in mind. Looks like dynamics and slurs have got lost and 
+  will need to be replaced.
 
 
 Licensing
